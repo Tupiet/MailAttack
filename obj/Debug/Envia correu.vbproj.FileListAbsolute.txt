@@ -1,0 +1,50 @@
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\bin\Debug\Envia correu.exe.config
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\bin\Debug\Envia correu.exe
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\bin\Debug\Envia correu.pdb
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\bin\Debug\Envia correu.xml
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\obj\Debug\Envia correu.vbprojAssemblyReference.cache
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\obj\Debug\Envia_correu.Form1.resources
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\obj\Debug\Envia_correu.Resources.resources
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\obj\Debug\Envia correu.vbproj.GenerateResource.cache
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\obj\Debug\Envia correu.vbproj.CoreCompileInputs.cache
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\obj\Debug\Envia correu.exe
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\obj\Debug\Envia correu.xml
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\obj\Debug\Envia correu.pdb
+C:\Users\Aleix Escrihuela\source\repos\Envia correu\Envia correu\obj\Debug\Envia_correu.Login.resources
+C:\Users\aleix\Google Drive\Meu\Ultra secret\Visual Studio\Envia correu\Envia correu\bin\Debug\Envia correu.exe.config
+C:\Users\aleix\Google Drive\Meu\Ultra secret\Visual Studio\Envia correu\Envia correu\bin\Debug\Envia correu.exe
+C:\Users\aleix\Google Drive\Meu\Ultra secret\Visual Studio\Envia correu\Envia correu\bin\Debug\Envia correu.pdb
+C:\Users\aleix\Google Drive\Meu\Ultra secret\Visual Studio\Envia correu\Envia correu\bin\Debug\Envia correu.xml
+C:\Users\aleix\Google Drive\Meu\Ultra secret\Visual Studio\Envia correu\Envia correu\obj\Debug\Envia correu.vbprojAssemblyReference.cache
+C:\Users\aleix\Google Drive\Meu\Ultra secret\Visual Studio\Envia correu\Envia correu\obj\Debug\Envia_correu.Form1.resources
+C:\Users\aleix\Google Drive\Meu\Ultra secret\Visual Studio\Envia correu\Envia correu\obj\Debug\Envia_correu.Login.resources
+C:\Users\aleix\Google Drive\Meu\Ultra secret\Visual Studio\Envia correu\Envia correu\obj\Debug\Envia_correu.Resources.resources
+C:\Users\aleix\Google Drive\Meu\Ultra secret\Visual Studio\Envia correu\Envia correu\obj\Debug\Envia correu.vbproj.GenerateResource.cache
+C:\Users\aleix\Google Drive\Meu\Ultra secret\Visual Studio\Envia correu\Envia correu\obj\Debug\Envia correu.exe
+C:\Users\aleix\Google Drive\Meu\Ultra secret\Visual Studio\Envia correu\Envia correu\obj\Debug\Envia correu.xml
+C:\Users\aleix\Google Drive\Meu\Ultra secret\Visual Studio\Envia correu\Envia correu\obj\Debug\Envia correu.pdb
+C:\Users\aleix\Documents\Envia correu\Envia correu\Envia correu\bin\Debug\Envia correu.exe.config
+C:\Users\aleix\Documents\Envia correu\Envia correu\Envia correu\bin\Debug\Envia correu.exe
+C:\Users\aleix\Documents\Envia correu\Envia correu\Envia correu\bin\Debug\Envia correu.pdb
+C:\Users\aleix\Documents\Envia correu\Envia correu\Envia correu\bin\Debug\Envia correu.xml
+C:\Users\aleix\Documents\Envia correu\Envia correu\Envia correu\obj\Debug\Envia correu.vbprojAssemblyReference.cache
+C:\Users\aleix\Documents\Envia correu\Envia correu\Envia correu\obj\Debug\Envia_correu.Form1.resources
+C:\Users\aleix\Documents\Envia correu\Envia correu\Envia correu\obj\Debug\Envia_correu.Login.resources
+C:\Users\aleix\Documents\Envia correu\Envia correu\Envia correu\obj\Debug\Envia_correu.Resources.resources
+C:\Users\aleix\Documents\Envia correu\Envia correu\Envia correu\obj\Debug\Envia correu.vbproj.GenerateResource.cache
+C:\Users\aleix\Documents\Envia correu\Envia correu\Envia correu\obj\Debug\Envia correu.exe
+C:\Users\aleix\Documents\Envia correu\Envia correu\Envia correu\obj\Debug\Envia correu.xml
+C:\Users\aleix\Documents\Envia correu\Envia correu\Envia correu\obj\Debug\Envia correu.pdb
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\bin\Debug\MailAttack.exe.config
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\bin\Debug\MailAttack.exe
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\bin\Debug\MailAttack.pdb
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\bin\Debug\MailAttack.xml
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\obj\Debug\Envia correu.vbprojAssemblyReference.cache
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\obj\Debug\Mail_Attack.Form1.resources
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\obj\Debug\Mail_Attack.Login.resources
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\obj\Debug\Mail_Attack.Resources.resources
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\obj\Debug\Envia correu.vbproj.GenerateResource.cache
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\obj\Debug\MailAttack.exe
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\obj\Debug\MailAttack.xml
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\obj\Debug\MailAttack.pdb
+C:\Users\aleix\Documents\Envia correu molt\Envia correu\Envia correu\obj\Debug\Envia correu.vbproj.CoreCompileInputs.cache

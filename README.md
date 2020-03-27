@@ -1,2 +1,2 @@
 # MailAttack
- Programa que permite enviar correos electrónicos cuantas veces se quiera
+ Programa que permite enviar correos electrónicos cuantas veces se quiera.
